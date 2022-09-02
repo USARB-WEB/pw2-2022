@@ -1,13 +1,14 @@
 # Practical tasks:
 1. Create ToR(Term of reference) for final project
-2. Create database according to ToR
-3. Create CRUD according to ToR(min: 3 linked entities)
-4. Create custom endpoints acording to ToR (min: 10 endpoints)
-5. User authentification
-6. Working with files
-7. Using Docker
-8. Endpoints documentation(Postman/Swagger)
-9. Endpoints testing coverage
+2. Create UML structural diagram for entities
+3. Create database according to ToR
+4. Create CRUD according to ToR(min: 3 linked entities)
+5. Create custom endpoints acording to ToR (min: 10 endpoints)
+6. User authentification
+7. Working with files
+8. Using Docker
+9. Endpoints documentation(Postman/Swagger)
+10. Endpoints testing coverage
 
 # Example of ToR:
 ## Project name: Locations manager
