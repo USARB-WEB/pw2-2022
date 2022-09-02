@@ -13,3 +13,6 @@ Email: chilatsergiu@gmail.com
 + Node JS application https://github.com/sergiuchilat/node-server
 
 Link to meeting https://meet.google.com/zaj-vtjx-ait
+
+## Assesment
+https://github.com/sergiuchilat/pw2-2022/blob/main/assessment/index.md
