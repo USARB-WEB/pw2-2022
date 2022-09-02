@@ -8,6 +8,7 @@ Email: chilatsergiu@gmail.com
 + https://www.postman.com/
 + https://code.visualstudio.com/
 + https://swagger.io/
++ https://diagrams.net/
 
 ## Node JS code samples
 + Node JS application https://github.com/sergiuchilat/node-server
