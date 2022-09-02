@@ -1,6 +1,6 @@
 # Practical tasks:
 1. Create ToR(Term of reference) for final project
-2. Create UML structural diagram for entities
+2. Create UML structural diagram for entities (https://diagrams.net/)
 3. Create database according to ToR
 4. Create CRUD according to ToR(min: 3 linked entities)
 5. Create custom endpoints acording to ToR (min: 10 endpoints)
