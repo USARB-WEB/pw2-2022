@@ -14,5 +14,5 @@ Email: chilatsergiu@gmail.com
 
 Link to meeting https://meet.google.com/zaj-vtjx-ait
 
-## Assesment
+## Assessment
 https://github.com/sergiuchilat/pw2-2022/blob/main/assessment/index.md
