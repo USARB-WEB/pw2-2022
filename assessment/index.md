@@ -14,14 +14,6 @@
 ## Project name: Locations manager
 
 ## Entities:
-### Country
-```
-{
-  id: number,
-  name: string,
-  code: string
-}
-```
 
 ### Country
 ```
