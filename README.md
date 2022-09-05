@@ -15,6 +15,7 @@ Email: chilatsergiu@gmail.com
 
 ## Node JS code samples
 + Node JS application https://github.com/sergiuchilat/node-server
++ Postman collection for Node&Express CRUD application https://www.getpostman.com/collections/b2a29713bceae454a41e
 
 Link to meeting https://meet.google.com/zaj-vtjx-ait
 
